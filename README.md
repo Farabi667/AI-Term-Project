@@ -39,8 +39,8 @@ Ensure you have the following installed:
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/news-recommendation-rl.git
-cd news-recommendation-rl
+git clone https://github.com/Farabi667/AI-Term-Project.git
+cd AI-Term-Project
 ```
 
 ---
